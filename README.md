@@ -15,5 +15,5 @@ Menampilkan angka 1–100 dengan aturan:
 - Kelipatan 3 & 5 → fizzbuzz
 
 ## Cara Menjalankan
-python konversi_hari.py
-python fizzbuzz.py
+konversi.py
+fizzbuzz.py
