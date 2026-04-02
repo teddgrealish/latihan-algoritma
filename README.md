@@ -1,0 +1,2 @@
+# latihan-algoritma
+NAMA  : TEDDY SUSANTO NIM : 251011700804
