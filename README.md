@@ -15,7 +15,7 @@ Menampilkan angka 1–100 dengan aturan:
 - Kelipatan 3 & 5 → fizzbuzz
 
 ## Pencet nih link buat jalanin ayo ayo ayo ayo
-(https://colab.research.google.com/drive/1XjsTtjOxhUWhQNa1ue7DaPztoabMbuYb?usp=sharing#scrollTo=feF09slALR4i)
-
 https://colab.research.google.com/drive/1XjsTtjOxhUWhQNa1ue7DaPztoabMbuYb?usp=sharing
+
+https://colab.research.google.com/drive/1v3KAn6h4szwvUahW_z19NCqUOUSG_PHV?usp=sharing
 
