@@ -14,3 +14,6 @@ Menampilkan angka 1–100 dengan aturan:
 - Kelipatan 5 → buzz
 - Kelipatan 3 & 5 → fizzbuzz
 
+## Pencet nih link buat jalanin ayo ayo ayo ayo
+(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XjsTtjOxhUWhQNa1ue7DaPztoabMbuYb?usp=sharing#scrollTo=feF09slALR4i)
+https://colab.research.google.com/drive/1XjsTtjOxhUWhQNa1ue7DaPztoabMbuYb?usp=sharing
