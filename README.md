@@ -14,6 +14,3 @@ Menampilkan angka 1–100 dengan aturan:
 - Kelipatan 5 → buzz
 - Kelipatan 3 & 5 → fizzbuzz
 
-## Cara Menjalankan
-konversi.py
-fizzbuzz.py
